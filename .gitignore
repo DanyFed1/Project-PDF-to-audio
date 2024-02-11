@@ -1,2 +1,5 @@
 *.pdf
 *.mp3
+.idea
+.venv/
+.idea/
